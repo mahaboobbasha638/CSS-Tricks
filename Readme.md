@@ -25,7 +25,7 @@
 
         
 -
-        .patent_details_container{
+        .container{
             background-color: rgba(0,0,0,0.5);
             width: 100%;
             height: 100%;
@@ -33,22 +33,22 @@
             top: 0;
             z-index: 10;
         
-            .pdc_inner{
+            .inner{
                 max-width: 80%;
                 margin: 50px auto;
         
-                .pdc_head{
+                .head{
                     background-color: white;
                     height: 50px;
                     padding: 15px;
                     border-bottom: 1px solid #e5e5e5;
                 }
         
-                .pdc_conent{
+                .conent{
                     max-height: calc(100% - 200px);
                 }
         
-                .pdc_fotter{    
+                .fotter{    
                     background-color: white;
                     height: 50px;
                     padding: 15px;
